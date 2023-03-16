@@ -48,7 +48,6 @@ public FlightBooking(int i) {
     passengerAge = new int[i];
     ticketNumber = new String[i];
 }
-//getter
 
 public TripSource getTripSource() {
     return tripSource;
